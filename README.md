@@ -17,7 +17,7 @@ This project contains the following modules:
 > -   Opportunity
 > -   Planner
 
-## Try for free [here](https://bottlecrm.com/)
+## Try for free [here](https://crm.vidyatra.com/)
 ---
 
 # Installation
